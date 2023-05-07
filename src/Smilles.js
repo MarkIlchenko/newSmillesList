@@ -57,7 +57,6 @@ const EmoticonList = () => {
                  ))}
              </ul>
              <button onClick={handleShowResultClick}>Show Results</button>
-             hi
          </div>
     );
 };
