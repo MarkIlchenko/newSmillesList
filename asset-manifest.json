@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newSmillesList/static/css/main.a240c550.css",
+    "main.js": "/newSmillesList/static/js/main.c71b0d93.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newSmillesList/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/newSmillesList/index.html",
+    "main.a240c550.css.map": "/newSmillesList/static/css/main.a240c550.css.map",
+    "main.c71b0d93.js.map": "/newSmillesList/static/js/main.c71b0d93.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newSmillesList/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.c71b0d93.js"
+  ]
+}
